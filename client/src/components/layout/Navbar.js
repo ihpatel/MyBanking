@@ -14,7 +14,7 @@ class Navbar extends Component {
               }}
               className="col s5 brand-logo center black-text"
             >
-              MERN Plaid
+              MyBanking
             </Link>
           </div>
         </nav>
